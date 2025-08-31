@@ -1,0 +1,29 @@
+{
+    "dataset_name": "insurance",
+    "target": "charges",
+    "data_root": "/sc/home/philipp.hildebrandt/MA/data/",
+    "descriptions_file": "descriptions.json",
+    "num_generations": 1500,
+    "num_repetitions": 3,
+    "display_name": "MetaSynth - ablation - Columnwise",
+    "task": "regression",
+    "original_file": "original.csv",
+    "stats": [
+        "min",
+        "max",
+        "mean",
+        "std",
+        "25%",
+        "50%",
+        "75%",
+        "skew",
+        "kurtiosis",
+        "correlations"
+    ],
+    "num_test": 500,
+    "llm_name": "/sc/home/philipp.hildebrandt/models/mistralai/Mistral-Small-3.1-24B-Instruct-2503",
+    "results_root": "results/",
+    "no_stats": false,
+    "no_descriptions": false,
+    "generator": "columnwise_relationships_json_nodist"
+}

@@ -1,0 +1,14 @@
+{
+    "Age": "Role: Feature, Description: Age of the player.",
+    "Gender": "Role: Feature, Description: Gender of the player.",
+    "Location": "Role: Feature, Description: Geographic location of the player.",
+    "GameGenre": "Role: Feature, Description: Genre of the game the player is engaged in.",
+    "PlayTimeHours": "Role: Feature, Description: Average hours spent playing per session.",
+    "InGamePurchases": "Role: Feature, Description: Indicates whether the player makes in-game purchases (0 = No, 1 = Yes).",
+    "GameDifficulty": "Role: Feature, Description: Difficulty level of the game.",
+    "SessionsPerWeek": "Role: Feature, Description: Number of gaming sessions per week.",
+    "AvgSessionDurationMinutes": "Role: Feature, Description: Average duration of each gaming session in minutes.",
+    "PlayerLevel": "Role: Feature, Description: Current level of the player in the game.",
+    "AchievementsUnlocked": "Role: Feature, Description: Number of achievements unlocked by the player.",
+    "EngagementLevel": "Role: Target, Description: Categorized engagement level reflecting player retention ('High', 'Medium', 'Low')."
+}

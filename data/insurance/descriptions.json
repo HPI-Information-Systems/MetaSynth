@@ -1,0 +1,9 @@
+{
+    "age": "Role: Feature, Description: Age of primary beneficiary.",
+    "sex": "Role: Feature, Description: Insurance contractor gender, female, male.",
+    "bmi": "Role: Feature, Description: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m ^ 2) using the ratio of height to weight, ideally 18.5 to 24.9.",
+    "children": "Role: Feature, Description: Number of children covered by health insurance / Number of dependents.",
+    "smoker": "Role: Feature, Description: This column indicates if the ensured person smokes or not.",
+    "region": "Role: Feature, Description: The beneficiary's residential area in the US: northeast, southeast, southwest, northwest..",
+    "charges": "Role: Target, Description: Individual medical costs billed by health insurance. "
+}

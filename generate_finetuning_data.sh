@@ -1,0 +1,1 @@
+python generate_finetuning_datasets.py --llm_name "mistralai/Mistral-Small-3.1-24B-Instruct-2503" --base_path "data/" --save_path "finetuning_data/" --datasets "abalone" "cardio" "crowdfunding" "flight-price" "gaming" "heart-failure" "housing" "insurance" "student-performance" "weather" --num_examples "50"

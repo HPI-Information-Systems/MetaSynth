@@ -1,0 +1,13 @@
+{
+    "Sex": "Role: Feature, Description: nominal M, F, and I (infant) ",
+    "Length": "Role: Feature, Description: continuous in mm, Longest shell measurement",
+    "Diameter": "Role: Feature, Description: continuous in mm, measured perpendicular to length",
+    "Height": "Role: Feature, Description: continuous in mm, measured with meat in shell",
+    "Whole_weight": "Role: Feature, Description: continuous in grams, weight of the whole abalone",
+    "Shucked_weight": "Role: Feature, Description: continuous in grams, weight of the meat of the abalone",
+    "Viscera_weight": "Role: Feature, Description: continuous in grams, gut weight (after bleeding)",
+    "Shell_weight": "Role: Feature, Description: continuous in grams, after being dried",
+    "Class_number_of_rings": "Role: Target, Description: integer +1.5, gives the age in years"
+}
+
+

@@ -1,0 +1,15 @@
+{
+    "GoalAmount": "int",
+    "RaisedAmount": "float",
+    "DurationDays": "int",
+    "NumBackers": "int",
+    "Category": "str",
+    "LaunchMonth": "str",
+    "Country": "str",
+    "Currency": "str",
+    "OwnerExperience": "int",
+    "VideoIncluded": "str",
+    "SocialMediaPresence": "int",
+    "NumUpdates": "int",
+    "IsSuccessful": "str"
+}

@@ -1,0 +1,16 @@
+{
+    "airline": "Role: Feature, Description: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.",
+    "source_city": "Role: Feature, Description: City from which the flight takes off. It is a categorical feature having 6 unique cities.",
+    "departure_time": "Role: Feature, Description: This is a derived categorical feature obtained created by grouping time periods into bins. It stores information about the departure time and have 6 unique time labels.",
+    "stops": "Role: Feature, Description: A categorical feature with 3 distinct values that stores the number of stops between the source and destination cities.",
+    "arrival_time": "Role: Feature, Description: This is a derived categorical feature created by grouping time intervals into bins. It has six distinct time labels and keeps information about the arrival time.",
+    "destination_city": "Role: Feature, Description: City where the flight will land. It is a categorical feature having 6 unique cities.",
+    "class": "Role: Feature, Description: A categorical feature that contains information on seat class; it has two distinct values: Business and Economy.",
+    "duration": "Role: Feature, Description: A continuous feature that displays the overall amount of time it takes to travel between cities in hours.",
+    "days_left": "Role: Feature, Description: This is a derived characteristic that is calculated by subtracting the trip date by the booking date.",
+    "flight_prefix": "Role: Feature, Description: Stores information regarding the plane's flight code prefix. It forms the flight code together with the flight number.",
+    "flight_number": "Role: Feature, Description: Stores information regarding the plane's flight code number. It forms the flight code together with the flight prefix.",
+    "price": "Role: Target, Description: Target variable stores information of the ticket price."
+}
+
+

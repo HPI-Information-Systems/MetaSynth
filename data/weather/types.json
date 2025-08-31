@@ -1,0 +1,13 @@
+{
+    "Temperature": "float",
+    "Humidity": "int",
+    "Wind Speed": "float",
+    "Precipitation (%)": "float",
+    "Cloud Cover": "str",
+    "Atmospheric Pressure": "float",
+    "UV Index": "int",
+    "Season": "str",
+    "Visibility (km)": "float",
+    "Location": "str",
+    "Weather_Type": "str"
+}

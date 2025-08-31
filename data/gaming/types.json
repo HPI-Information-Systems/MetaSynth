@@ -1,0 +1,14 @@
+{
+    "Age": "int",
+    "Gender": "str",
+    "Location": "str",
+    "GameGenre": "str",
+    "PlayTimeHours": "float",
+    "InGamePurchases": "str",
+    "GameDifficulty": "str",
+    "SessionsPerWeek": "int",
+    "AvgSessionDurationMinutes": "int",
+    "PlayerLevel": "int",
+    "AchievementsUnlocked": "int",
+    "EngagementLevel": "str"
+}

@@ -1,0 +1,14 @@
+{
+    "airline": "str",
+    "source_city": "str",
+    "departure_time": "str",
+    "stops": "str",
+    "arrival_time": "str",
+    "destination_city": "str",
+    "class": "str",
+    "duration": "float",
+    "days_left": "int",
+    "flight_prefix": "str",
+    "flight_number": "int",
+    "price": "float"
+}

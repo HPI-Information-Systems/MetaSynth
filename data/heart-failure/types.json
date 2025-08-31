@@ -1,0 +1,14 @@
+{
+    "Age": "int",
+    "Sex": "str",
+    "ChestPainType": "str",
+    "RestingBP": "int",
+    "Cholesterol": "int",
+    "FastingBS": "str",
+    "RestingECG": "str",
+    "MaxHR": "int",
+    "ExerciseAngina": "str",
+    "Oldpeak": "float",
+    "ST_Slope": "str",
+    "HeartDisease": "str"
+}

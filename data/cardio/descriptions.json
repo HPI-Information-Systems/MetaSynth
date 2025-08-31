@@ -1,0 +1,14 @@
+{
+    "Age": "Role: Feature, Description: Age in days, Objective Feature",
+    "Gender": "Role: Feature, Description: Gender, 1 - women, 2 - men, Objective Feature",
+    "Height": "Role: Feature, Description: Height in cm, Objective Feature",
+    "Weight": "Role: Feature, Description: Weight in kg, Objective Feature",
+    "Systolic blood pressure": "Role: Feature, Description: Systolic blood pressure, Examination Feature",
+    "Diastolic blood pressure": "Role: Feature, Description: Diastolic blood pressure, Examination Feature",
+    "Cholesterol": "Role: Feature, Description: Cholesterol, Examination Feature, 1: normal, 2: above normal, 3: well above normal",
+    "Glucose": "Role: Feature, Description: Glucose, Examination Feature, 1: normal, 2: above normal, 3: well above normal",
+    "Smoking": "Role: Feature, Description: If a patient smokes, Subjective Feature",
+    "Alcohol intake": "Role: Feature, Description: If a patient drinks alcogol, Subjective Feature",
+    "Physical activity": "Role: Feature, Description: If a patient does physical activity, Subjective Feature",
+    "Cardio Disease": "Role: Target, Description: Presence or absence of cardiovascular disease, Target Variable"
+}

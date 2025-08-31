@@ -1,0 +1,15 @@
+{
+    "GoalAmount": "Role: Feature, Description: Financial target set by the campaign in USD.",
+    "RaisedAmount": "Role: Feature, Description: Total funds raised in USD.",
+    "DurationDays": "Role: Feature, Description: Campaign length in days.",
+    "NumBackers": "Role: Feature, Description: Number of supporters.",
+    "Category": "Role: Feature, Description: Type of campaign (e.g., Technology, Art).",
+    "LaunchMonth": "Role: Feature, Description: Month the campaign started.",
+    "Country": "Role: Feature, Description: Origin of the campaign.",
+    "Currency": "Role: Feature, Description: Currency used for donations.",
+    "OwnerExperience": "Role: Feature, Description: Experience level of the campaign owner.",
+    "VideoIncluded": "Role: Feature, Description: Presence of a promotional video (Yes/No).",
+    "SocialMediaPresence": "Role: Feature, Description: Number of social media followers.",
+    "NumUpdates": "Role: Feature, Description: Number of campaign updates.",
+    "IsSuccessful": "Role: Target, Description: Success indicator (1 if goal met, 0 otherwise)."
+}

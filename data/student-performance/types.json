@@ -1,0 +1,16 @@
+{
+    "Age": "int",
+    "Gender": "str",
+    "Ethnicity": "str",
+    "ParentalEducation": "str",
+    "StudyTimeWeekly": "float",
+    "Absences": "int",
+    "Tutoring": "str",
+    "ParentalSupport": "str",
+    "Extracurricular": "str",
+    "Sports": "str",
+    "Music": "str",
+    "Volunteering": "str",
+    "GPA": "float",
+    "GradeClass": "str"
+}

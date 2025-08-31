@@ -1,0 +1,13 @@
+{
+    "Temperature": "Role: Feature, Description: The temperature in degrees Celsius, ranging from extreme cold to extreme heat.",
+    "Humidity": "Role: Feature, Description: The humidity percentage, including values above 100% to introduce outliers.",
+    "Wind Speed": "Role: Feature, Description: The wind speed in kilometers per hour, with a range including unrealistically high values.",
+    "Precipitation (%)": "Role: Feature, Description: The precipitation percentage, including outlier values.",
+    "Cloud Cover": "Role: Feature, Description: The cloud cover description.",
+    "Atmospheric Pressure": "Role: Feature, Description: The atmospheric pressure in hPa, covering a wide range.",
+    "UV Index": "Role: Feature, Description: The UV index, indicating the strength of ultraviolet radiation.",
+    "Season": "Role: Feature, Description: The season during which the data was recorded.",
+    "Visibility (km)": "Role: Feature, Description: The visibility in kilometers, including very low or very high values.",
+    "Location": "Role: Feature, Description: The type of location where the data was recorded.",
+    "Weather_Type": "Role: Target, Description: The target variable for classification, indicating the weather type."
+}

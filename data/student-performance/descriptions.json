@@ -1,0 +1,16 @@
+{
+    "Age": "Role: Feature, Description: The age of the students ranges from 15 to 18 years.",
+    "Gender": "Role: Feature, Description: Gender of the students.",
+    "Ethnicity": "Role: Feature, Description: The ethnicity of the students.",
+    "ParentalEducation": "Role: Feature, Description: The education level of the parents.",
+    "StudyTimeWeekly": "Role: Feature, Description: Weekly study time in hours.",
+    "Absences": "Role: Feature, Description: Number of absences during the school year.",
+    "Tutoring": "Role: Feature, Description: If the student received tutoring.",
+    "ParentalSupport": "Role: Feature, Description: The level of parental support.",
+    "Extracurricular": "Role: Feature, Description: Participation in extracurricular activities.",
+    "Sports": "Role: Feature, Description: Participation in sports.",
+    "Music": "Role: Feature, Description: Participation in music activities.",
+    "Volunteering": "Role: Feature, Description: Participation in volunteering.",
+    "GPA": "Role: Feature, Description: Grade Point Average on a scale from 2.0 to 4.0, influenced by study habits, parental involvement, and extracurricular activities.",
+    "GradeClass": "Role: Target, Description: Classification of students' grades."
+}

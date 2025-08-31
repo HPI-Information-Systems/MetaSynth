@@ -1,0 +1,14 @@
+{
+    "Age": "Role: Feature, Description: age of the patient [years]",
+    "Sex": "Role: Feature, Description: sex of the patient [M: Male, F: Female]",
+    "ChestPainType": "Role: Feature, Description: chest pain type [TA: Typical Angina, ATA: Atypical Angina, NAP: Non-Anginal Pain, ASY: Asymptomatic]",
+    "RestingBP": "Role: Feature, Description: resting blood pressure [mm Hg]",
+    "Cholesterol": "Role: Feature, Description: serum cholesterol [mm/dl]",
+    "FastingBS": "Role: Feature, Description: fasting blood sugar [1: if FastingBS > 120 mg/dl, 0: otherwise]",
+    "RestingECG": "Role: Feature, Description: resting electrocardiogram results [Normal: Normal, ST: having ST-T wave abnormality (T wave inversions and/or ST elevation or depression of > 0.05 mV), LVH: showing probable or definite left ventricular hypertrophy by Estes' criteria]",
+    "MaxHR": "Role: Feature, Description: maximum heart rate achieved [Numeric value between 60 and 202]",
+    "ExerciseAngina": "Role: Feature, Description: exercise-induced angina [Y: Yes, N: No]",
+    "Oldpeak": "Role: Feature, Description: oldpeak = ST [Numeric value measured in depression]",
+    "ST_Slope": "Role: Feature, Description: the slope of the peak exercise ST segment [Up: upsloping, Flat: flat, Down: downsloping]",
+    "HeartDisease": "Role: Target, Description: output class [1: heart disease, 0: Normal]"
+}

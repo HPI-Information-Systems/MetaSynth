@@ -1,0 +1,14 @@
+{
+    "Age": "int",
+    "Gender": "str",
+    "Height": "int",
+    "Weight": "float",
+    "Systolic blood pressure": "int",
+    "Diastolic blood pressure": "int",
+    "Cholesterol": "str",
+    "Glucose": "str",
+    "Smoking": "str",
+    "Alcohol intake": "str",
+    "Physical activity": "str",
+    "Cardio Disease": "str"
+}
