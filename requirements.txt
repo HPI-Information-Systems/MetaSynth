@@ -4,7 +4,6 @@ scikit-learn
 transformers
 statsmodels
 openml
-torch
 trl
 unsloth
 datasets

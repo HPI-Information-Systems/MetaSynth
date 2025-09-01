@@ -10,7 +10,7 @@ import os
 from datasets import Dataset, DatasetDict
 import warnings
 from tqdm import tqdm
-
+warnings.filterwarnings("ignore")
 
 import argparse
 

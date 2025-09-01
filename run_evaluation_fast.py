@@ -192,8 +192,8 @@ if __name__ == '__main__':
                 from vllm import LLM
                 import torch
                 llm_name = config["llm_name"]
-                else:
-                    llm = LLM(model=llm_name)
+                del llm
+                llm = LLM(model=llm_name)
 
         # Create absolute paths for the input files
         config["descriptions_file"] = os.path.join(config["data_root"], config["dataset_name"], config["descriptions_file"])

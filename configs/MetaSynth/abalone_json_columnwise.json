@@ -1,7 +1,7 @@
 {
     "dataset_name": "abalone",
     "target": "Class_number_of_rings",
-    "data_root": "/sc/home/philipp.hildebrandt/MA/data/",
+    "data_root": "data/",
     "descriptions_file": "descriptions.json",
     "num_generations": 1500,
     "num_repetitions": 3,
@@ -21,7 +21,7 @@
         "correlations"
     ],
     "num_test": 500,
-    "llm_name": "mistralai/Mistral-Small-3.2-24B-Instruct-2506",
+    "llm_name": "mistralai/Mistral-Small-3.1-24B-Instruct-2503",
     "results_root": "results/",
     "no_stats": false,
     "no_descriptions": false,

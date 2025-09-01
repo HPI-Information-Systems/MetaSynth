@@ -1,7 +1,7 @@
 import math
 
 import pandas as pd
-from metasynth.generators.metadata_generator_base import MetadataSynthBase
+from metasynth.generators.metasynth_base import MetaSynthBase
 
 
 class MetaSynth(MetaSynthBase):

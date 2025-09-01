@@ -3,7 +3,7 @@ import json
 import pandas as pd
 
 import asyncio
-from metasynth.generators.metadata_generator_base import MetadataSynthBase
+from metasynth.generators.metasynth_base import MetaSynthBase
 from metasynth.generators.llm_utils import get_responses
 import signal
 import re
