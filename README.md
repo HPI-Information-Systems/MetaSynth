@@ -25,6 +25,15 @@ In the same folder, create a ```descriptions.json``` file and a ```types.json```
 In the descripitions file, the values should be short textual descriptions of the individual columns to use as metadata.
 In the types file, the keys sould be either "int" for integer colums, "float" for coninuous numerical columns or "str" for categorical columns.
 
+### Add a config file
+In ```configs/```, create a new config file for your dataset. For this, follow the existing file structure and change:
+- dataset_name to the name of your dataset
+- target to the target column name of your dataset for MLE prediction tasks
+- data_root, if your dataset is not placed in our data folder
+- descriptions_file, if your descriptions file is named differently 
+- task to either "classification" or "regression" for MLE evaluation
+- original_file to the name of your CSV
+
 ## Finetuning MetaSynth-X
 
 ### 1. Generate the finetuning conversations
